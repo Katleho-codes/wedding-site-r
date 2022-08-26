@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# A wedding website with React JS for beginners
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The live site (https://wedding-site-r.netlify.app/).
 
 ## Available Scripts
 
